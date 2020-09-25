@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576497300 source:d:\wdnmd\main.c
+	<stdio.h>
+	<stdlib.h>
+
